@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarunpatil001&show_icons=true&locale=en&layout=compact" alt="tarunpatil001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tarunpatil001&show_icons=true&locale=en" alt="tarunpatil001" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tarunpatil001&show_icons=true&locale=en&layout=compact" alt="tarunpatil001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunpatil001&" alt="tarunpatil001" /></p>
