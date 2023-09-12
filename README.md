@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java with DSA**
 
-- 📫 How to reach me **tarunpatil001@gmail.com** [![Gmail Badge](https://img.shields.io/badge/-%40tarunpatil001-red?style=for-the-badge&logo=gmail&logoColor=white&href=mailto:tarunpatil001@gmail.com)}
+- 📫 How to reach me **tarunpatil001@gmail.com**
 
 - ⚡ Fun fact **uses tabs over spaces**
 
