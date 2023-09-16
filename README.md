@@ -28,11 +28,11 @@
 
 ## Stats :
 
-<span><a href="https://github.com/tarunpatil001/github-readme-stats"><img align="center" src="https://leetcard.jacoblin.cool/tarunpatil001?font=baloo&extension=null&ext=heatmap&border=0" alt="Tarun's github stats" /></a> </span>&nbsp;
-<span><a href="https://github.com/tarunpatil001/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tarunpatil001&show_icons=true&locale=en&hide_border=true" alt="Tarun's github stats" /></a></span>
+<span><a href="https://github.com/tarunpatil001/github-readme-stats"><img align="center" src="https://leetcard.jacoblin.cool/tarunpatil001?theme=dark&font=baloo&extension=null&ext=heatmap&border=0" alt="Tarun's github stats" /></a> </span>&nbsp;
+<span><a href="https://github.com/tarunpatil001/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tarunpatil001&theme=dark&show_icons=true&locale=en&hide_border=true" alt="Tarun's github stats" /></a></span>
 ##
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunpatil001&" alt="tarunpatil001" /></span>&nbsp;&nbsp;
-<span><a href="https://github.com/tarunpatil001/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarunpatil001&show_icons=true&locale=en&layout=compact&hide_border=true" /></a></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunpatil001&theme=dark" alt="tarunpatil001" /></span>&nbsp;&nbsp;
+<span><a href="https://github.com/tarunpatil001/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tarunpatil001&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" /></a></span>
 ##
 
 
