@@ -13,7 +13,6 @@
 
 ## Connect with me :
 [![Linkedin Badge](https://img.shields.io/badge/-%40tarunpatil001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarunpatil001/)](https://www.linkedin.com/in/tarunpatil001/) 
-[![Instagram Badge](https://img.shields.io/badge/-%40tarunpatil14-crimson?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tarunpatil14/)](https://www.instagram.com/tarunpatil14/) 
 
 ## Coding Profile :
 <a href="https://www.codechef.com/users/tarunpatil001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunpatil001" height="30" width="40" /></a>
