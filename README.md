@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunpatil001&label=Profile%20views&color=0e75b6&style=flat" alt="tarunpatil001" /> </p>
 
-- 🌱 I’m currently learning **Java with DSA**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **tarunpatil001@gmail.com**
 
